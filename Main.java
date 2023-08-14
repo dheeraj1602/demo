@@ -9,6 +9,7 @@ public class Main123{
 				s.add("svd");
 				s.add("dbjdbsj");
 				s.add("bdsb");
+s.add("bdsb");
 				System.out.println(".....vegetable lust..........");
 				s.forEach(sub -> System.out.println(sub));
 			}

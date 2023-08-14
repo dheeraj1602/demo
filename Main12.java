@@ -12,6 +12,7 @@ public class Main12
 			}
 			else
 			System.out.println("string is null");
+System.out.println("string is null");
 			}
 		}
 
